@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://akshayks1031-design.github.io/Akshayks-portfolio/sitemap.xml
